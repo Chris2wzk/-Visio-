@@ -1,7 +1,13 @@
 # 机器视觉Visio图
-用于目标检测、语义分割的神经网络visio图，本人毕业设计使用
+用于目标检测、语义分割的神经网络visio图，主要包括YOLO改进、UNet改进，本人毕业设计使用
+其中YOLO改进涉及版权不方便开源，UNet改进仓库地址：https://github.com/Chris2wzk/UNet-NEU-SEG
 
-# 文件夹结构：
+## 📞 联系方式
+
+- **邮箱**: 1318489612@qq.com
+⭐ **如果这个项目对你有帮助，请给个Star支持一下！** ⭐
+
+# 文件夹内容简介：
 ## 第2章 YOLO目标检测：
 主要包括YOLO和改进YOLO、FasterRCNN、SSD架构图
 特征提取C2f改进、SENet改进、检测头改进等visio图
