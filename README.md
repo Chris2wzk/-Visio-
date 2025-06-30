@@ -1,5 +1,8 @@
 # 机器视觉Visio图
 用于目标检测、语义分割的神经网络visio图，主要包括YOLO改进、UNet改进，本人毕业设计使用
+
+在NEU-DET数据集做钢材缺陷检测任务，在NEU-SEG数据集做钢材缺陷语义分割任务
+
 其中YOLO改进涉及版权不方便开源，UNet改进仓库地址：https://github.com/Chris2wzk/UNet-NEU-SEG
 
 ## 📞 联系方式
